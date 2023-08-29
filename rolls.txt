@@ -1,2 +1,3 @@
 // Harsh Language
-dimwishlist:item=1606497639&perks=968510818,2048641572
+dimwishlist:item=1606497639&perks=968510818
+dimwishlist:item=1606497639&perks=2048641572
