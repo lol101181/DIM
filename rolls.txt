@@ -1,3 +1,6 @@
+// Hand in Hand
+dimwishlist:item=664109750&perks=3161816588,2679249093
+
 // Randy's Throwing Knife
 //notes: PvE
 dimwishlist:item=3292795429&perks=247725512,3891536761
