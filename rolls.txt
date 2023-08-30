@@ -1,3 +1,6 @@
+// A Sudden Death
+dimwishlist:item=2855157553&perks=4071163871,2679249093
+
 // Roar of the Bear
 dimwishlist:item=2231910050&perks=3523296417,1546637391
 dimwishlist:item=2231910050&perks=3523296417,3300816228
