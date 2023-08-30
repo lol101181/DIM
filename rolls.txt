@@ -1,3 +1,6 @@
+// Bug-Out Bag
+dimwishlist:item=2832639510&perks=4071163871,4293542123
+
 // Harsh Language
 dimwishlist:item=1606497639&perks=968510818,2048641572
 dimwishlist:item=1606497639&perks=968510818,776531651
