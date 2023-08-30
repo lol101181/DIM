@@ -1,3 +1,12 @@
+// Randy's Throwing Knife
+//notes: PvE
+dimwishlist:item=3292795429&perks=247725512,3891536761
+
+// Randy's Throwing Knife
+//notes: PvP
+dimwishlist:item=3292795429&perks=1428297954,1015611457
+dimwishlist:item=3292795429&perks=2387244414,1015611457
+
 // Eyasluna
 //notes: PvP
 dimwishlist:item=235827225&perks=2846385770,1015611457
