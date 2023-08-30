@@ -1,3 +1,10 @@
+// Autumn Wind
+//notes: PvP
+dimwishlist:item=3110377595&perks=2846385770,460017080
+dimwishlist:item=3110377595&perks=1428297954,460017080
+dimwishlist:item=3110377595&perks=2450788523,460017080
+dimwishlist:item=3110377595&perks=1570042021,460017080
+
 // Stormchaser
 dimwishlist:item=3652506829&perks=2284787283,1546637391
 dimwishlist:item=3652506829&perks=2284787283,1771339417
