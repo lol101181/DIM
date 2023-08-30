@@ -1,3 +1,13 @@
+// Imperial Needle
+dimwishlist:item=3460122497&perks=951095735,4104185692
+dimwishlist:item=3460122497&perks=201365942,4104185692
+
+// Wolftone Draw
+dimwishlist:item=3472875143&perks=201365942,4104185692
+dimwishlist:item=3472875143&perks=201365942,2848615171
+dimwishlist:item=3472875143&perks=951095735,4104185692
+dimwishlist:item=3472875143&perks=951095735,2848615171
+
 // Biting Winds
 dimwishlist:item=1621657423&perks=247725512,3365897133
 
