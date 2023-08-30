@@ -34,3 +34,6 @@ dimwishlist:item=2591241074&perks=201365942,3365897133
 // Whispering Slab
 dimwishlist:item=211938782&perks=201365942,3523296417
 dimwishlist:item=211938782&perks=201365942,4082225868
+
+// Reckless Oracle
+dimwishlist:item=3385326721&perks=1168162263,1015611457
