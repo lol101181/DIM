@@ -30,3 +30,7 @@ dimwishlist:item=963710795&perks=1523832109,2978966579
 // Strident Whistle
 dimwishlist:item=2591241074&perks=201365942,4293542123
 dimwishlist:item=2591241074&perks=201365942,3365897133
+
+// Whispering Slab
+dimwishlist:item=211938782&perks=201365942,3523296417
+dimwishlist:item=211938782&perks=201365942,4082225868
