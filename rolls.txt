@@ -1,3 +1,6 @@
+// Biting Winds
+dimwishlist:item=1621657423&perks=247725512,3365897133
+
 // Bug-Out Bag
 dimwishlist:item=2832639510&perks=4071163871,4293542123
 
