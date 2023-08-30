@@ -37,3 +37,8 @@ dimwishlist:item=211938782&perks=201365942,4082225868
 
 // Reckless Oracle
 dimwishlist:item=3385326721&perks=1168162263,1015611457
+
+// Accrued Redemption
+dimwishlist:item=4095896073&perks=201365942,3365897133
+dimwishlist:item=4095896073&perks=201365942,247725512
+dimwishlist:item=4095896073&perks=201365942,3425386926
