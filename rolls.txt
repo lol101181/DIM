@@ -1,3 +1,7 @@
+// Omniscient Eye
+//notes: PvP
+dimwishlist:item=3454326177&perks=2866798147,957782887
+
 // Ancient Gospel
 //notes: PvE
 dimwishlist:item=48643186&perks=247725512,1015611457
