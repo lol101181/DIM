@@ -1,3 +1,7 @@
+// Vouchsafe
+dimwishlist:item=3242168339&perks=247725512,3038247973
+dimwishlist:item=3242168339&perks=1354429876,3038247973
+
 // Omniscient Eye
 //notes: PvP
 dimwishlist:item=3454326177&perks=2866798147,957782887
