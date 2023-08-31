@@ -1,3 +1,7 @@
+// New Pacific Epitaph
+dimwishlist:item=1125217994&perks=3523296417,11612903
+dimwishlist:item=1125217994&perks=3523296417,3324494224
+
 // Cold Comfort
 dimwishlist:item=839786290&perks=968510818,3078487919
 
