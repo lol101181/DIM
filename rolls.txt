@@ -1,3 +1,6 @@
+// Cold Comfort
+dimwishlist:item=839786290&perks=968510818,3078487919
+
 // The Immortal
 dimwishlist:item=4039572196&perks=2846385770,365154968
 dimwishlist:item=4039572196&perks=2846385770,1015611457
