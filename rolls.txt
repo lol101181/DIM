@@ -1,3 +1,19 @@
+// Fortissimo-11
+dimwishlist:item=2821430069&perks=1354429876,1546637391
+dimwishlist:item=2821430069&perks=1354429876,2896038713
+
+// Militia's Birthright (Adept)
+dimwishlist:item=4162642204&perks=3032599245,1556840489,3300816228
+dimwishlist:item=4162642204&perks=3301904089,1556840489,3300816228
+
+// Hung Jury SR4 (Adept)
+dimwishlist:item=2883684343&perks=247725512,3891536761
+dimwishlist:item=2883684343&perks=3700496672,3891536761
+
+// Buzzard (Adept)
+dimwishlist:item=927835311&perks=3643424744,3891536761
+dimwishlist:item=927835311&perks=1354429876,3891536761
+
 // Royal Entry
 dimwishlist:item=2448907086&perks=951095735,3523296417
 dimwishlist:item=2448907086&perks=951095735,1275731761
