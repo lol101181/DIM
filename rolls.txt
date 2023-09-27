@@ -1,3 +1,9 @@
+// Yesteryear
+//notes: PvP or PvE
+dimwishlist:item=1141927949&perks=1820235745,3047969693
+dimwishlist:item=1141927949&perks=1168162263,3047969693
+dimwishlist:item=1141927949&perks=1428297954,3047969693
+
 // Warden's Law (Adept)
 dimwishlist:item=267089201&perks=1354429876,1546637391
 dimwishlist:item=267089201&perks=3828510309,1546637391
