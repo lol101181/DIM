@@ -1,3 +1,8 @@
+// Deafening Whisper
+dimwishlist:item=981718087&perks=1556840489,3425386926
+dimwishlist:item=981718087&perks=1556840489,3300816228
+dimwishlist:item=981718087&perks=2010801679,3425386926
+
 // Hero of Ages
 dimwishlist:item=2139640995&perks=1749209109,2396489472
 dimwishlist:item=2139640995&perks=3108830275,2396489472
