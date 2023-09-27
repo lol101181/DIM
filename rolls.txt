@@ -1,3 +1,11 @@
+// Whistler's Whim (Adept)
+dimwishlist:item=161675590&perks=247725512,201365942
+dimwishlist:item=161675590&perks=247725512,1015611457
+
+// Whistler's Whim
+dimwishlist:item=3165143747&perks=247725512,201365942
+dimwishlist:item=3165143747&perks=247725512,1015611457
+
 // Yesteryear
 //notes: PvP or PvE
 dimwishlist:item=1141927949&perks=1820235745,3047969693
