@@ -1,3 +1,7 @@
+// Dead Weight
+dimwishlist:item=3738678140&perks=1631667848,2679249093
+dimwishlist:item=3738678140&perks=3300816228,2679249093
+
 // Trust
 //notes: PvP
 dimwishlist:item=2850664015&perks=47981717,2846385770
