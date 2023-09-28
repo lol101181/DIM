@@ -1,3 +1,6 @@
+// Terminus Horizon
+dimwishlist:item=487205709&perks=3523296417,11612903
+
 // Rose
 //notes: PvP
 dimwishlist:item=882778888&perks=247725512,3038247973
