@@ -1,3 +1,8 @@
+// Fractethyst
+//notes: PvP
+dimwishlist:item=3184681056&perks=706527188,47981717
+dimwishlist:item=3184681056&perks=3161816588,47981717
+
 // Extraordinary Rendition
 dimwishlist:item=1097616550&perks=3643424744,3425386926
 dimwishlist:item=1097616550&perks=3643424744,4104185692
