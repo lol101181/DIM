@@ -1,3 +1,9 @@
+// Pre Astyanax IV (Adept)
+dimwishlist:item=496556698&perks=201365942,4293542123
+dimwishlist:item=496556698&perks=201365942,3365897133
+dimwishlist:item=496556698&perks=3828510309,4293542123
+dimwishlist:item=496556698&perks=3828510309,3365897133
+
 // True Prophecy
 dimwishlist:item=2742838700&perks=3643424744,3038247973
 dimwishlist:item=2742838700&perks=3643424744,3425386926
