@@ -1,3 +1,9 @@
+// Taraxippos
+dimwishlist:item=1389546626&perks=1354429876,831391274
+dimwishlist:item=1389546626&perks=1354429876,3038247973
+dimwishlist:item=1389546626&perks=1168162263,831391274
+dimwishlist:item=1389546626&perks=1168162263,3038247973
+
 // Terminus Horizon
 dimwishlist:item=487205709&perks=3523296417,11612903
 
