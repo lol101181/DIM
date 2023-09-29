@@ -1,3 +1,7 @@
+// Jorum's Claw
+//notes: PvP
+dimwishlist:item=62937067&perks=588594999,460017080
+
 // Dark Decider
 //notes: PvP
 dimwishlist:item=1144014195&perks=11551321,2846385770
