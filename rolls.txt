@@ -452,6 +452,7 @@ dimwishlist:item=2099894368&perks=3700496672,3891536761
 
 // Aurvandil FR6
 dimwishlist:item=963710795&perks=1523832109,2978966579
+dimwishlist:item=963710795&perks=2039302152,2978966579
 
 // Strident Whistle
 dimwishlist:item=2591241074&perks=201365942,4293542123
