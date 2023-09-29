@@ -1,3 +1,6 @@
+// Gunnora's Axe
+dimwishlist:item=411397829&perks=3300816228,1546637391
+
 // Point of the Stag
 dimwishlist:item=888872889&perks=201365942,2848615171
 dimwishlist:item=888872889&perks=201365942,555281244
