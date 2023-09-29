@@ -1,3 +1,6 @@
+// Greasy Luck
+dimwishlist:item=1757202961&perks=951095735,1782407750
+
 // Exalted Truth (Adept)
 //notes: PvP
 dimwishlist:item=1705843397&perks=2846385770,699525795
