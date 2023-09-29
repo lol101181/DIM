@@ -1,3 +1,13 @@
+// Exalted Truth (Adept)
+//notes: PvP
+dimwishlist:item=1705843397&perks=2846385770,699525795
+dimwishlist:item=1705843397&perks=2450788523,699525795
+
+// Exalted Truth
+//notes: PvP
+dimwishlist:item=548809020&perks=2846385770,699525795
+dimwishlist:item=548809020&perks=2450788523,699525795
+
 // Reed's Regret (Adept)
 dimwishlist:item=2475355656&perks=3400784728,1771339417
 dimwishlist:item=2475355656&perks=3400784728,1546637391
