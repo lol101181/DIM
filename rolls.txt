@@ -1,3 +1,8 @@
+// Dark Decider
+//notes: PvP
+dimwishlist:item=1144014195&perks=11551321,2846385770
+dimwishlist:item=1144014195&perks=1359896290,2846385770
+
 // Gunnora's Axe
 dimwishlist:item=411397829&perks=3300816228,1546637391
 
