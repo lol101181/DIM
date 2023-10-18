@@ -1,3 +1,9 @@
+// Krait
+dimwishlist:item=2852052802&perks=3643424744,124408337
+
+// Herod-C
+dimwishlist:item=1788603939&perks=1583705720,4049631843
+
 // Jorum's Claw
 //notes: PvP
 dimwishlist:item=62937067&perks=588594999,460017080
