@@ -1,3 +1,11 @@
+// Forbearance
+dimwishlist:item=568611921&perks=3523296417,2396489472
+dimwishlist:item=568611921&perks=3523296417,3592538738
+
+// Forbearance (Limited)
+dimwishlist:item=2480074702&perks=3523296417,2396489472
+dimwishlist:item=2480074702&perks=3523296417,3592538738
+
 // Luna's Howl
 dimwishlist:item=2763843899&perks=3017780555,4293542123
 dimwishlist:item=2763843899&perks=3017780555,2720533289
